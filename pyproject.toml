@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "neuro_toolkit"
+version = "0.1.0"
+description = "Computational neuroscience simulation and analysis toolkit"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "scipy",
+    "matplotlib",
+    "torch",
+    "torch-geometric",
+    "pytest"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
