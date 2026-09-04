@@ -1,5 +1,7 @@
 # computational-neuro-toolkit
 
+[![Tests](https://github.com/Sivlin-creater/computational-neuro-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/Sivlin-creater/computational-neuro-toolkit/actions/workflows/tests.yml)
+
 A modular Python package delivering numerical simulations for single-neuron dynamics, graph convolutional workflows, and empirical concentration bound verification.
 
 ---
