@@ -1,4 +1,4 @@
-# computational-neuro-toolkit
+# Computational-neuro-toolkit
 
 [![Tests](https://github.com/Sivlin-creater/computational-neuro-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/Sivlin-creater/computational-neuro-toolkit/actions/workflows/tests.yml)
 
